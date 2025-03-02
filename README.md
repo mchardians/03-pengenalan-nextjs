@@ -1,40 +1,19 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+# Laporan Praktikum
 
-## Getting Started
+|  | Pemrograman Berbasis Framework 2025 |
+| ------ | ------ |
+| NIM | 244107027019 |
+| Nama | Mochammad Ardiansyah |
+| Kelas | TI - 4K |
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) instead of React pages.
-
-This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn-pages-router) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
+## Langkah - Langkah Praktikum
+1. Membuat halaman sederhana di file `index.js` menggunakan Server Side Rendering
+![Tampilan halaman sederhana menggunakan SSR](./public/docs/Screenshot%20SSR.png "Tampilan halaman sederhana menggunakan SSR")
+2. Membuat halaman `blog` menggunakan Static Site Generation
+![Tampilan halaman blog menggunakan SSG](./public/docs/Screenshot%20SSG.png "Tampilan halaman blog menggunakan SSG")
+3. Membuat halaman `blog` dinamis berdasarkan slug menggunakan Dynamic Routes
+![Tampilan halaman blog dinamis menggunakan Dynamic Routes](./public/docs/Screenshot%20Dynamic%20Routes.png "Tampilan halaman blog dinamis menggunakan Dynamic Routes")
+4. Membuat halaman `products` yang merender hasil fetch daftar produk menggunakan API Routes `/api/products`
+![Tampilan halaman products menggunakan API Routes](./public/docs/Screenshot%20API%20Routes.png "Tampilan halaman products menggunakan API Routes")
+5. Menambahkan `Link` component pada file `index.js` yang mengarahkan pada halaman `Tantang Kami`
+![Tampilan halaman about](./public/docs/Screenshot%20Halaman%20About.png "Tampilan halaman about")
