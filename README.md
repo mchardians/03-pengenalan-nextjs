@@ -17,3 +17,14 @@
 ![Tampilan halaman products menggunakan API Routes](./public/docs/Screenshot%20API%20Routes.png "Tampilan halaman products menggunakan API Routes")
 5. Menambahkan `Link` component pada file `index.js` yang mengarahkan pada halaman `Tantang Kami`
 ![Tampilan halaman about](./public/docs/Screenshot%20Halaman%20About.png "Tampilan halaman about")
+
+## Tugas
+1. Membuat halaman baru menggunakan SSG untuk menampilkan daftar pengguna
+    *
+2. Mengimplementasikan Dynamic Routes untuk menampilkan detail pengguna berdasarkan id
+3. Membuat halaman frontend untuk menampilkan data cuaca dari API OpenWeatherMap menggunakan API Routes
+
+## Demo
+1. as
+2. as
+3. as
