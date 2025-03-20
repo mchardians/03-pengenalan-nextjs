@@ -20,11 +20,16 @@
 
 ## Tugas
 1. Membuat halaman baru menggunakan SSG untuk menampilkan daftar pengguna
-    *
+   ![Tampilan halaman users](./public/docs/Screenshot%20Users.png "Tampilan halaman about")
 2. Mengimplementasikan Dynamic Routes untuk menampilkan detail pengguna berdasarkan id
+   ![Tampilan halaman detail user](./public/docs/Screenshot%20Detail%20User.png "Tampilan halaman detail user")
 3. Membuat halaman frontend untuk menampilkan data cuaca dari API OpenWeatherMap menggunakan API Routes
+   ![Tampilan halaman cuaca](./public/docs/Screenshot%20Weather.png "Tampilan halaman cuaca")
 
-## Demo
-1. as
-2. as
-3. as
+[//]: # (## Demo)
+
+[//]: # (1. as)
+
+[//]: # (2. as)
+
+[//]: # (3. as)
